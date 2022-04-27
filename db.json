@@ -1,0 +1,290 @@
+{
+    "data":
+    [
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "test":"this is for test",
+          "price":700,
+          "votes": 646,
+          "reviews": 212,
+          "cost": 60,
+          "categories": "Yummy Asian Desserts Pizza",
+          "rating": 3.4,
+          "image": "http://dummyimage.com/120x100.png/ff4444/ffffff"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":760,
+          "votes": 545,
+          "reviews": 466,
+          "cost": 364,
+          "categories": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "rating": 3.5,
+          "image": "http://dummyimage.com/108x100.png/dddddd/000000"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":900,
+          "votes": 884,
+          "reviews": 215,
+          "cost": 288,
+          "categories": "Yummy Asian Desserts Pizza",
+          "rating": 4.9,
+          "image": "http://dummyimage.com/161x100.png/dddddd/000000"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":580,
+          "votes": 847,
+          "reviews": 352,
+          "cost": 258,
+          "categories": "Waterproofing & Caulking",
+          "rating": 3.6,
+          "image": "http://dummyimage.com/161x100.png/cc0000/ffffff"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":500,
+          "votes": 945,
+          "reviews": 398,
+          "cost": 220,
+          "categories": "Yummy Asian Desserts Pizza",
+          "rating": 3.1,
+          "image": "http://dummyimage.com/249x100.png/cc0000/ffffff"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          
+          "price":580,
+          "votes": 981,
+          "reviews": 220,
+          "cost": 447,
+          "categories": "Prefabricated Aluminum Metal Canopies",
+          "rating": 3.5,
+          "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":580,
+          "reviews": 211,
+          "cost": 246,
+          "categories": "Soft Flooring and Base",
+          "rating": 4.9,
+          "image": "http://dummyimage.com/231x100.png/cc0000/ffffff"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":500,
+          "votes": 699,
+          "reviews": 194,
+          "cost": 79,
+          "categories": "Roofing (Asphalt)",
+          "rating": 4.5,
+          "image": "http://dummyimage.com/241x100.png/ff4444/ffffff"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":900,
+          "votes": 966,
+          "reviews": 182,
+          "cost": 293,
+          "categories": "Framing (Steel)",
+          "rating": 4.7,
+          "image": "http://dummyimage.com/244x100.png/dddddd/000000"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":1800,
+          "votes": 538,
+          "reviews": 197,
+          "cost": 99,
+          "categories": "Granite Surfaces",
+          "rating": 3.8,
+          "image": "http://dummyimage.com/123x100.png/cc0000/ffffff"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":1400,
+          "votes": 554,
+          "reviews": 107,
+          "cost": 330,
+          "categories": "Ornamental Railings",
+          "rating": 3.3,
+          "image": "http://dummyimage.com/122x100.png/5fa2dd/ffffff"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":1300,
+          "votes": 508,
+          "reviews": 420,
+          "cost": 380,
+          "categories": "Masonry",
+          "rating": 4.1,
+          "image": "http://dummyimage.com/228x100.png/dddddd/000000"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":1200,
+          "votes": 993,
+          "reviews": 464,
+          "cost": 439,
+          "categories": "Doors, Frames & Hardware",
+          "rating": 4.7,
+          "image": "http://dummyimage.com/189x100.png/5fa2dd/ffffff"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":1200,
+          "votes": 747,
+          "reviews": 100,
+          "cost": 298,
+          "categories": "Granite Surfaces",
+          "rating": 4,
+          "image": "http://dummyimage.com/205x100.png/cc0000/ffffff"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":1050,
+          "votes": 601,
+          "reviews": 461,
+          "cost": 399,
+          "categories": "Framing (Wood)",
+          "rating": 4.8,
+          "image": "http://dummyimage.com/241x100.png/5fa2dd/ffffff"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":1000,
+          "votes": 968,
+          "reviews": 378,
+          "cost": 246,
+          "categories": "Casework",
+          "rating": 3.8,
+          "image": "http://dummyimage.com/140x100.png/dddddd/000000"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":1000,
+          "votes": 636,
+          "reviews": 232,
+          "cost": 308,
+          "categories": "Masonry",
+          "rating": 4.5,
+          "image": "http://dummyimage.com/151x100.png/5fa2dd/ffffff"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":590,
+          "votes": 607,
+          "reviews": 242,
+          "cost": 169,
+          "categories": "Glass & Glazing",
+          "rating": 4.6,
+          "image": "http://dummyimage.com/174x100.png/5fa2dd/ffffff"
+        },
+        {
+          "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":520,
+          "votes": 713,
+          "reviews": 155,
+          "cost": 265,
+          "categories": "Curb & Gutter",
+          "rating": 3.1,
+          "image": "http://dummyimage.com/234x100.png/5fa2dd/ffffff"
+        },
+        {
+          "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+          },
+          "price":400,
+          "votes": 550,
+          "reviews": 286,
+          "cost": 424,
+          "categories": "Glass & Glazing",
+          "rating": 4.7,
+          "image": "http://dummyimage.com/147x100.png/5fa2dd/ffffff"
+        }
+      ]
+}

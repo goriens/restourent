@@ -1,0 +1,87 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;;
+  width: 500px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  border-radius: 10px;
+}
+.main-box-1{
+  display: flex;
+}
+.box1{
+  padding: 5px;
+  width: 25%;
+  margin: 5px;
+}
+.box2{
+  padding: 5px;
+  width: 55%;
+  margin: 5px;
+}
+.box2 > h2{
+  color: red;
+}
+.category ,.cost{
+  font-size: 13px;
+  color: gray;
+  margin: 5px;
+}
+.box2-bottom{
+  display: flex;
+  font-size: 14px;
+  margin: 5px 0px;
+  justify-items: center;
+}
+.accept{
+  font-size: 15px;
+}
+.box2-bottom >p{
+  padding: 0px 10px 0px 0px ;
+}
+.box3{
+  padding: 5px;
+  width: 20%;
+  text-align: right;
+  margin: 5px;
+}
+img{
+  width: 120px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.box3 > button{
+  background-color: green;
+  width: 50px;
+  height: 30px;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-bottom: 5px;
+  color: #fff;
+}
+.box3>p{
+  font-size: 12px;
+}
+.main-box-2{
+  text-align: right;
+  margin-top: 20px;
+  border: 1px solid rgba(128, 128, 128, 0.281);
+  padding: 10px;
+  color:green;
+  font-weight: 600;
+}
+.mapApp{
+  width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
